@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://user-images.githubusercontent.com/26329107/207744259-2fc3fdef-15f8-4552-8b32-37c654211a81.png" align="center" width="600"/>
+<img src="https://github.com/RWSCollab/.github/blob/main/profile/RWSC_7hex_line.png" align="center" width="600"/>
 
 <p style="text-align: center;">
 
